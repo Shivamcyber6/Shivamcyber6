@@ -1,6 +1,6 @@
 ## Hi, I'm Shivam 👋
 
-🌐 **Portfolio:** [shivam-portfolio-two-red.vercel.app](https://shivam-portfolio-two-red.vercel.app) — ask my AI assistant about my work<br>
+🌐 **Portfolio:** [shivam-portfolio-two-red.vercel.app](https://shivam-portfolio-two-red.vercel.app) — ask my AI assistant about my work
 📄 **Resume:** [Download PDF](https://shivam-portfolio-two-red.vercel.app/Shivam_Singh_Resume.pdf)
 
 **Full Stack Developer · GenAI** — I build web products with Next.js, React, Node.js and Python, and add AI where it earns its place: RAG pipelines, embeddings search, agents and chat interfaces.
