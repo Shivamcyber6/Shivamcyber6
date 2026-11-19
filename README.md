@@ -15,7 +15,6 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[Portfolio](https://shivam-portfolio-two-red.vercel.app)** · [code](https://github.com/Shivamcyber6/shivam-portfolio) | My site with its own backend: streaming AI assistant (RAG + Gemini), contact form on MongoDB, live GitHub stats | Next.js · TypeScript · MongoDB |
-| **AI Document Intelligence Platform** | Ask questions about PDFs and get answers with source citations; agents for multi-step questions | Next.js · FastAPI · LangChain · Pinecone · AWS |
 | **AuraStream** | Video streaming platform with adaptive playback and Row Level Security | Next.js · PostgreSQL · Supabase |
 | **ClearFeed** | Chrome extension on the Chrome Web Store that hides distracting feeds | JavaScript · Chrome APIs |
 
