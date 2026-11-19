@@ -1,5 +1,7 @@
 ## Hi, I'm Shivam 👋
 
+🌐 **Portfolio:** [shivam-portfolio-two-red.vercel.app](https://shivam-portfolio-two-red.vercel.app) — ask my AI assistant about my work
+
 **Full Stack Developer · GenAI** — I build web products with Next.js, React, Node.js and Python, and add AI where it earns its place: RAG pipelines, embeddings search, agents and chat interfaces.
 
 - 🏫 **Web Developer at COER University** — I built and run the university's platform on AWS, serving 10,000+ monthly users with 99.9% uptime
@@ -12,7 +14,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Portfolio** | My site with its own backend: streaming AI assistant (RAG + Gemini), contact form on MongoDB, live GitHub stats | Next.js · TypeScript · MongoDB |
+| **[Portfolio](https://shivam-portfolio-two-red.vercel.app)** · [code](https://github.com/Shivamcyber6/shivam-portfolio) | My site with its own backend: streaming AI assistant (RAG + Gemini), contact form on MongoDB, live GitHub stats | Next.js · TypeScript · MongoDB |
 | **AI Document Intelligence Platform** | Ask questions about PDFs and get answers with source citations; agents for multi-step questions | Next.js · FastAPI · LangChain · Pinecone · AWS |
 | **AuraStream** | Video streaming platform with adaptive playback and Row Level Security | Next.js · PostgreSQL · Supabase |
 | **ClearFeed** | Chrome extension on the Chrome Web Store that hides distracting feeds | JavaScript · Chrome APIs |
@@ -28,4 +30,4 @@
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/shivam-singh-663320197) · 19410121143.k.shivamsingh@gmail.com
+[Portfolio](https://shivam-portfolio-two-red.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shivam-singh-663320197) · 19410121143.k.shivamsingh@gmail.com
